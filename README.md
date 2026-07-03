@@ -44,7 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmx-git&theme=transparent&border=0000FF&ring=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF&stroke=0000FF">
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmx-git&theme=react-dark&area=true&color=8A2BE2&line=8A2BE2&point=8A2BE2)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmx-git&theme=react-dark&border_color=8A2BE2&area=true&color=8A2BE2&line=8A2BE2&point=8A2BE2)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
