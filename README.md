@@ -8,17 +8,17 @@
 ---
 
 <div style="width: 100%;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z1cjNuazd3aGtla3c4Nm45NGg1MjFpaTVzcXQxcWx3cmZvc3dhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="270" style="margin-left: 20px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z1cjNuazd3aGtla3c4Nm45NGg1MjFpaTVzcXQxcWx3cmZvc3dhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" style="margin-left: 20px;">
   
   <p style="font-size: 13px;">I am a systems engineering student in Venezuela. I am passionate about programming and I am currently expanding my knowledge by developing desktop tools, electronics projects, and interface design. I love learning and creating something new, productive, innovative, and creative.</p>
   <ul style="font-size: 13px; list-style-type: none; padding-left: 0; margin-top: 0;">
-  <li>🎓 Systems engineering student at <a href="https://www.psm.edu.ve/">IUP 'Santiago Mariño'</a></li>
-  <li>📧 Reach out to me at: Alexamuel.2012@gmail.com</li>
+  <li>🎓 Systems engineering student at <a href="http://www.psmmaturin.edu.ve/"target="_blank">IUP 'Santiago Mariño'</a></li>
   <li>💻 Tech Stack: Python, Tkinter, CustomTkinter</li>
   <li>🚀 Building desktop tools</li>
   <li>⚽ Football player & stats enthusiast</li>
   <li>🌱 I am willing to collaborate on an open-source project</li>
   <li>⚡ Soccer, music, and coffee are the reasons to live.</li>
+  <li>📧 Reach out to me at: <a href="mailto:Alexamuel.2012@gmail.com">Alexamuel.2012@gmail.com</a></li>
 </ul>
 </div>
 
