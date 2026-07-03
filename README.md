@@ -3,21 +3,26 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consola&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+love+programming+&hearts;++;beginner+developer;++;code,+design+and+innovation...;++;transforming+ideas+into+software;<3"></a>
 </p>
-<br>
 
-## About Me :
-
-I am a systems engineering student in Venezuela. I am passionate about programming and I am currently expanding my knowledge by developing desktop tools, electronics projects, and interface design. I love learning and creating something new, productive, innovative, and creative.
-
-- 🎓 Systems engineering student at [IUP 'Santiago Mariño'](http://www.psmmaturin.edu.ve/)
-
-- 📫 Reach out to me at: <a href="Alexamuel.2012@gmail.com">Alexamuel.2012@gmail.com</a>
-
-- 🌱 Estoy dispuesto a colaborar en un proyecto de código abierto
-
-- ⚡ futbolista, Friends🫂, películas y series🎥, la música🎵 y el cafe son las razones para vivir.
-
----
+<table>
+  <tr>
+    <td valign="top">
+      <div style="text-align: left; font-size: 0.7em;">
+        <h2>About Me :</h2>
+        <p>I am a systems engineering student in Venezuela. I am passionate about programming...</p>
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li>🎓 Systems engineering student at IUP 'Santiago Mariño'</li>
+          <li>📧 Reach out to me at: Alexamuel.2012@gmail.com</li>
+          <li>🌱 Estoy dispuesto a colaborar en un proyecto de código abierto</li>
+          <li>⚡ Futbolista, Friends, películas y series, la música y el café son las razones para vivir.</li>
+        </ul>
+      </div>
+    </td>
+    <td valign="middle">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z1cjNuazd3aGtla3c4Nm45NGg1MjFpaTVzcXQxcWx3cmZvc3dhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+    </td>
+  </tr>
+</table>
 
 Languages
 
