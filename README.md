@@ -7,7 +7,6 @@
 ### About Me:
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
 <div style="width: 100%;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z1cjNuazd3aGtla3c4Nm45NGg1MjFpaTVzcXQxcWx3cmZvc3dhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="420" style="margin-left: 20px;">
   
@@ -25,13 +24,10 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 
 ### Tools
 
@@ -47,9 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmx-git&theme=transparent&border=0000FF&ring=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF&stroke=0000FF">
 </p>
 
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmx-git&theme=react-dark&area=true&color=8A2BE2&line=8A2BE2&point=8A2BE2)
-
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -58,7 +52,7 @@
 <a href="mailto:Alexamuel.2012@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 <a href="https://wa.me/+584249194552">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-
