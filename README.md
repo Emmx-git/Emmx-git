@@ -41,6 +41,8 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+### GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmx-git&theme=transparent&border=0000FF&ring=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF&stroke=0000FF">
 </p>
