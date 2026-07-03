@@ -12,7 +12,7 @@
   
   <p style="font-size: 13px;">I am a systems engineering student in Venezuela. I am passionate about programming and I am currently expanding my knowledge by developing desktop tools, electronics projects, and interface design. I love learning and creating something new, productive, innovative, and creative.</p>
   <ul style="font-size: 13px; list-style-type: none; padding-left: 0; margin-top: 0;">
-  <li>🎓 Systems engineering student at IUP 'Santiago Mariño'</li>
+  <li>🎓 Systems engineering student at <a href="https://www.psm.edu.ve/">IUP 'Santiago Mariño'</a></li>
   <li>📧 Reach out to me at: Alexamuel.2012@gmail.com</li>
   <li>💻 Tech Stack: Python, Tkinter, CustomTkinter</li>
   <li>🚀 Building desktop tools</li>
