@@ -40,10 +40,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmx-git&theme=transparent&show_icons=true&hide_border=false&border_color=0000FF&title_color=0000FF&text_color=FFFFFF&icon_color=0000FF&rank_icon=github" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmx-git&theme=transparent&border=0000FF&ring=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF&stroke=0000FF">
 </p>
 
