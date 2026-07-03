@@ -5,10 +5,11 @@
 </p>
 
 ### About Me:
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 <div style="width: 100%;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z1cjNuazd3aGtla3c4Nm45NGg1MjFpaTVzcXQxcWx3cmZvc3dhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" style="margin-left: 20px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z1cjNuazd3aGtla3c4Nm45NGg1MjFpaTVzcXQxcWx3cmZvc3dhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="420" style="margin-left: 20px;">
   
   <p style="font-size: 13px;">I am a systems engineering student in Venezuela. I am passionate about programming and I am currently expanding my knowledge by developing desktop tools, electronics projects, and interface design. I love learning and creating something new, productive, innovative, and creative.</p>
   <ul style="font-size: 13px; list-style-type: none; padding-left: 0; margin-top: 0;">
@@ -22,10 +23,9 @@
 </ul>
 </div>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
- 
----
 
 ### Languages
 
@@ -37,7 +37,9 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 [![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
@@ -61,6 +63,9 @@ Friday                   2550 commits        ████░░░░░░░�
 Saturday                 1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 Sunday                   2122 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 ```
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 Contact
 
